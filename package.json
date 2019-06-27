@@ -1,0 +1,22 @@
+{
+  "name": "alexa-fala-ao-contrario",
+  "version": "1.0.0",
+  "description": "Função AWS Lambda para a alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagodasilvateixeira/alexa-fala-ao-contrario.git"
+  },
+  "author": "Tiago Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagodasilvateixeira/alexa-fala-ao-contrario/issues"
+  },
+  "homepage": "https://github.com/tiagodasilvateixeira/alexa-fala-ao-contrario#readme",
+  "dependencies": {
+    "ask-sdk": "^2.6.0"
+  }
+}
